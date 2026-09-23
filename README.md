@@ -39,3 +39,9 @@ Como mejoras se podría implementar una cola circular, un árbol AVL para manten
 3. Abrir el archivo del programa.
 4. Ejecutarlo desde Python.
 El programa mostrará en la consola las pruebas y resultados de las estructuras de datos.
+
+## Árbol AVL
+
+A continuación se muestra el árbol AVL realizado a mano:
+
+![Árbol AVL](foto%20dibujo%20del%20árbol%20AVLjpeg))
