@@ -44,4 +44,4 @@ El programa mostrará en la consola las pruebas y resultados de las estructuras 
 
 A continuación se muestra el árbol AVL realizado a mano:
 
-![Árbol AVL](foto%20dibujo%20del%20árbol%20AVLjpeg))
+![Árbol AVL](arbol_avl.jpg))
